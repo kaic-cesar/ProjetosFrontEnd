@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #74cf6c;
+    background-color: #f1f1f1;
 }
 
 main {
@@ -21,6 +21,7 @@ main {
         background-color: #fff;
         border-radius: 10px;
         text-align: center;
+        box-shadow: 0px 7px 15px -4px #000;
 
         h3 {
             font-size: 1.3rem;
