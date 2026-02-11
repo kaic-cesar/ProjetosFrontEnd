@@ -4,8 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
 </head>
 <body>
-    
+    <main>
+        <div class="container">
+            <h3>Contador</h3>
+            <h1 id="valor">0</h1>
+
+            <div class="buttons">
+                <button class="subtrair" onclick="subtrair()">-</button>
+                <button class="limpar" onclick="limpar()">Limpar</button>
+                <button class="adicionar" onclick="adicionar()">+</button>
+            </div>
+
+            <input type="checkbox" value="" id="check">
+            <label for="">Desativar números negativo?</label>
+        </div>
+    </main>
 </body>
 </html>
