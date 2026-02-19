@@ -18,5 +18,5 @@ Não há integração com backend ou validação dinâmica, tratando-se de uma i
 
 
 ## Screenshots
-![alt text](/Projetos/Junior/01-Login/assets/screen.png)
+![imagem-do-projeto](/Projetos/01-Login/assets/screen.png)
 
